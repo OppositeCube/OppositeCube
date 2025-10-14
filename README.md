@@ -1,9 +1,9 @@
 # Hi, I’m Saad Kashif Qureshi
 
-- I’m interested in AI and Python.  
-- I’m currently learning about voice-controlled software systems.  
-- I’m looking to collaborate on voice assistant development.  
-- You can reach me on Instagram: **@oppositecube** or Discord: **@OppositeCube**  
+I’m a developer who loves building intelligent systems and exploring how software, hardware, and AI can work together.  
+My interests include AI, machine learning, full-stack web and mobile development, cybersecurity, and game development.  
+I work with frameworks like Flutter, React Native, and tools such as PyTorch, Hugging Face, and Transformers.  
+Right now, I’m focused on Project Jarses, a long-term research project about ethical AI, automation, and human and AI collaboration through exoskeletons and AR/VR systems.
 
 ---
 
